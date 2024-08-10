@@ -1,0 +1,20 @@
+{
+  "expenses": [
+    {
+      "id": "a712",
+      "value": "198",
+      "name": "Chowking",
+      "date": "2024-07-15",
+      "type": "Food",
+      "note": ""
+    },
+    {
+      "id": "4a9e",
+      "value": "78",
+      "name": "Grab Trike",
+      "date": "2024-07-15",
+      "type": "Transporation",
+      "note": ""
+    }
+  ]
+}
