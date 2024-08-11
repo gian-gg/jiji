@@ -1,5 +1,9 @@
+__PROJECT ON HOLD__
 # jiji 🐈‍⬛
 
-A Finance Management Web-App
+The Finance Management App you need!
 
-__PROJECT ON HOLD__
+
+[![TECH](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwindcss,netlify)](https://skillicons.dev)
+
+##
